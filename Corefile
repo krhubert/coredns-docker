@@ -1,0 +1,5 @@
+.:53 {
+  proxy . 8.8.8.8
+  errors
+  cache
+}
